@@ -2,6 +2,8 @@
 Recreated the Pepsi website by scratch using Vite, React.js, Tailwind CSS, Express.js, and a PostGreSQL database
 
 Here is a video detailing it: https://www.youtube.com/watch?v=osPCvNVCLmM&ab_channel=DaemonZap
+
+
 To run,
 
 Install Vite, React, Tailwind CSS, and Express.js
