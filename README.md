@@ -13,9 +13,9 @@ Then, set up a local database in Postgres with a 2 tables, one for the items, an
 
 The tables parameters are
 
-brand VARCHAR(30)
-product VARCHAR(30)
-image TEXT
+brand VARCHAR(30),
+product VARCHAR(30),
+image TEXT,
 
 make a table called cans and another called cart.
 
