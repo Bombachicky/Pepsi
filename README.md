@@ -1,5 +1,5 @@
 # Pepsi
-Recreated the Pepsi by scratch using Vite, React.js, Tailwind CSS, Express.js, and a PostGreSQL database
+Recreated the Pepsi website by scratch using Vite, React.js, Tailwind CSS, Express.js, and a PostGreSQL database
 
 To run,
 
